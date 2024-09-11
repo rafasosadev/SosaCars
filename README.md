@@ -1,6 +1,6 @@
 # Hola!!!
 
-Este es mi primer proyecto que se trata de una **Aplicación Web de Alquiler de Coches** con **NextJS**, **React**, **Tailwind CSS** y **Stripe**.
+Este es mi primer proyecto que se trata de una **Aplicación Web de Alquiler de Coches** con **NextJS**, **React**, **Tailwind CSS** y **Stripe**. Tengo el código en privado, si quieres verlo, hadmelo saber a mi correo.
 
 ## Página principal:
 
