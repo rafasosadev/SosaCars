@@ -24,9 +24,6 @@ Para obtener acceso al código o para cualquier otra consulta, por favor, envía
 
 ---
 
-Si tienes alguna pregunta o necesitas más información, no dudes en [contactarme](mailto:rafasl1993@gmail.com).
-
-
 
 ## Página principal:
 
@@ -61,3 +58,6 @@ Esta es la página del administrador, donde puede publicar nuevos coches o despu
 ---
 
 ### ¡Gracias por revisar mi proyecto! 🚗💻
+---
+
+Si tienes alguna pregunta o necesitas más información, no dudes en [contactarme](mailto:rafasl1993@gmail.com).
