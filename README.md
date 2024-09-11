@@ -21,7 +21,7 @@ Para obtener acceso al código o para cualquier otra consulta, por favor, envía
 - **Búsqueda de coches**: Filtra coches por disponibilidad, tipo y ubicación.
 - **Reservas en línea**: Realiza reservas y gestiona tu alquiler.
 - **Panel de administración**: Publica, actualiza y elimina coches disponibles.
-- - **Pasarela de pago**: Pasarela de pago realizada con Stripe
+- **Pasarela de pago**: Pasarela de pago realizada con Stripe
 
 ---
 
