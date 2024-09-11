@@ -1,6 +1,32 @@
 # Hola!!!
+¡Bienvenido a mi primer proyecto!
 
-Este es mi primer proyecto que se trata de una **Aplicación Web de Alquiler de Coches** con **NextJS**, **React**, **Tailwind CSS** y **Stripe**. Tengo el código en privado, si quieres verlo, hadmelo saber a mi correo.
+## Descripción
+
+Este proyecto es una **Aplicación Web de Alquiler de Coches** desarrollada utilizando:
+
+- **Next.js**: Framework para React que permite el rendering del lado del servidor y generación de sitios estáticos.
+- **React**: Biblioteca para construir interfaces de usuario interactivas.
+- **Tailwind CSS**: Framework de diseño para crear interfaces atractivas y responsive.
+- **Stripe**: Plataforma de pago para procesar transacciones de forma segura.
+
+El código fuente de este proyecto está disponible en un repositorio privado. Si estás interesado en verlo o en colaborar, por favor, no dudes en contactarme.
+
+## Acceso al Código
+
+Para obtener acceso al código o para cualquier otra consulta, por favor, envíame un correo a: [rafasl1993@gmail.com](mailto:rafasl1993@gmail.com).
+
+## Características
+
+- **Búsqueda de coches**: Filtra coches por disponibilidad, tipo y ubicación.
+- **Reservas en línea**: Realiza reservas y gestiona tu alquiler.
+- **Panel de administración**: Publica, actualiza y elimina coches disponibles.
+
+---
+
+Si tienes alguna pregunta o necesitas más información, no dudes en [contactarme](mailto:rafasl1993@gmail.com).
+
+
 
 ## Página principal:
 
